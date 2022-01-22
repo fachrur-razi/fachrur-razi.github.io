@@ -1,0 +1,8 @@
+#ourbusiness {
+  padding-top: 4rem;
+  background-color: #b6b6b6;
+}
+
+.card-body {
+  box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
+}
